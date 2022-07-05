@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Triangulator.Attempt.Four.Finder": {
+      "commandName": "Project",
+      "commandLineArgs": "250 ../../../../Output/10Targets.dat ../../../../Output/2500Positions.dat"
+    }
+  }
+}
